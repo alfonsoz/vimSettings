@@ -5,3 +5,5 @@
 *.bash_history
 *._viminfo
 *.txt
+_viminfo
+bash_history
