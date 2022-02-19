@@ -1,0 +1,6 @@
+/compiler/*
+/doc/*
+/ftdetect/*
+/indent/*
+.bash_history
+_viminfo
