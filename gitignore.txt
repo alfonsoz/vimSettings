@@ -2,5 +2,6 @@
 /doc/*
 /ftdetect/*
 /indent/*
-.bash_history
+bash_history
 _viminfo
+*.txt
